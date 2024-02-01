@@ -2,3 +2,6 @@ pierwsza linia
 druga linia
 trzecia linia
 czwarta linia
+
+next line
+another line
