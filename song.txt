@@ -4,3 +4,4 @@ trzecia linia
 czwarta linia
 
 replaced
+added new one 
