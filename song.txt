@@ -3,11 +3,4 @@ druga linia
 trzecia linia
 czwarta linia
 
-next line
-another line
-
-new verses lalalalalalal
-alalalalal
-----------------------------
-this text is added specially for feature branch
-one more line for the feature text
+replaced
