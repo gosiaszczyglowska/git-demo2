@@ -3,9 +3,5 @@ druga linia
 trzecia linia
 czwarta linia
 
-next line
-another line
-
-new verses lalalalalalal
-alalalalal
-----------------------------
+replaced
+added new one 
